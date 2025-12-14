@@ -17,6 +17,8 @@ The system is capable of:
 * Supporting **production‑style dashboards**
 
 ---
+![WhatsApp Image 2025-12-14 at 11 44 45 AM](https://github.com/user-attachments/assets/edff4f37-0bbf-4aa3-8ec5-3ade03868e6d)
+![WhatsApp Image 2025-12-14 at 11 45 26 AM](https://github.com/user-attachments/assets/3c282b46-8a87-4daa-9b65-7f33e3c884b3)
 
 ## 🧠 Key Features
 
@@ -30,6 +32,7 @@ The system is capable of:
 * 📈 **Unified Grafana Dashboard** for metrics + logs
 
 ---
+![WhatsApp Image 2025-12-14 at 11 45 44 AM](https://github.com/user-attachments/assets/71134f23-9f63-4b75-a511-833a2889da8c)
 
 ## 🏗️ System Architecture
 
@@ -96,6 +99,7 @@ project-root/
 ├── docker-compose.yml  # Grafana + Prometheus setup
 └── README.md
 
+![WhatsApp Image 2025-12-14 at 11 48 01 AM](https://github.com/user-attachments/assets/07b3c09c-9036-4dd1-acd1-d73622ee0da1)
 ````
 
 ---
@@ -140,7 +144,7 @@ project-root/
 ```bash
 docker run -d -p 9090:9090 --name=prometheus prom/prometheus
 ````
-
+![WhatsApp Image 2025-12-14 at 11 48 52 AM](https://github.com/user-attachments/assets/7b65f1a0-9b9e-4124-a44a-0d2d9f89ed07)
 ### Start Grafana
 
 ```bash
@@ -172,10 +176,11 @@ histogram_quantile(
 * Production API monitoring
 * Performance debugging
 * SLA/SLO tracking
-* Internship & academic projects
 * DevOps / SRE learning
 
 ---
+![WhatsApp Image 2025-12-14 at 11 52 01 AM](https://github.com/user-attachments/assets/85d16594-6920-4316-88d2-b500c4ccedc8)
+![WhatsApp Image 2025-12-14 at 11 50 40 AM](https://github.com/user-attachments/assets/52c8988f-3923-4f5a-9eb7-7e37736071e7)
 
 ## 🚀 Future Enhancements
 
