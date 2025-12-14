@@ -1,0 +1,19 @@
+{
+  "name": "production_server_monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "abhijit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "prom-client": "^15.1.3",
+    "response-time": "^2.3.4",
+    "winston": "^3.19.0",
+    "winston-loki": "^6.1.3"
+  }
+}
