@@ -1,5 +1,6 @@
 # 🚀 Node.js Observability & Performance Monitoring System
 
+
 A **production‑grade observability platform** for Node.js applications using **Prometheus, Grafana, Docker,Loki and Express**. This project provides real‑time insights into API latency,Info logs,Total request Received, error rates, CPU usage, event loop lag, and application health through a custom Grafana dashboard.
 
 ---
